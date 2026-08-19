@@ -10,6 +10,12 @@ The primary objective was to transform raw food delivery data into an interactiv
 
 ---
 
+## 📷 Dashboard Preview
+
+![Swiggy Sales Dashboard](images/Swiggy%20Sales%20Dashboard.png)
+
+---
+
 ## 🎯 Business Problem
 
 The objective of this project is to analyze Swiggy's food delivery data and answer key business questions such as:
@@ -98,4 +104,4 @@ Swiggy-Sales-Excel-Dashboard/
 ├── README.md
 │
 └── images/
-    └── dashboard.png
+    └── Swiggy Sales Dashboard.png
